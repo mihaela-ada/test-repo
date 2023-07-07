@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE learningAssessment PUBLIC "-//OASIS//DTD DITA Learning Assessment//EN" "learningAssessment.dtd">
 <learningAssessment id="assessment_y1j_ls1_mfb">
-    <title>Test</title>
+    <title><topic id="id_xh5_xft_1yb" conref="folder_cretaed_from_cf/care.dita">
+            <title/>
+        </topic>Test</title>
     <shortdesc></shortdesc>
     <learningAssessmentbody> </learningAssessmentbody>
 </learningAssessment>
